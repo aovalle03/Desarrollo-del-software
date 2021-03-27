@@ -1,0 +1,59 @@
+.titulo span{
+    color: #e28db8;
+}
+.nav-link{
+    color: blueviolet;
+}
+.navbar{
+    border-top: 1px solid hsl(0, 28%, 46%);
+    border-bottom: 1px solid #944848;
+}
+.footer{
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+.imagen.bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.imagen-principal{
+    background-image:url(../img/principal.jpg);
+    height: 35rem;
+}
+.categorias h2{
+    color: #e28db8;
+    font-size: 2.5rem;
+}
+.categorias a{
+    color: #008080;
+    text-decoration: none;
+}
+
+.productos h2{
+    color: #e28db8;
+    font-size: 2.5rem;
+}
+
+.img-nosotros{
+    background-image: url(../img/nosotros.jpeg);
+    height: 30rem;
+    float: left;
+}
+
+.contenido{
+    text-align: right;
+}
+
+.nosotros p{
+   color: cornsilk;
+}
+.footer {
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.footer a{
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #2980B9;
+}
